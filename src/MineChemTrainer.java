@@ -2,7 +2,7 @@ import java.io.FileNotFoundException;
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class MinChemTrainer {
+public class MineChemTrainer {
 
     public static void main(String[] args) throws FileNotFoundException {
         ArrayList<Mineral> minerals = DataReader.loadMinerals();
